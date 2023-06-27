@@ -7,7 +7,6 @@ The memory interface of the FIFO is presented in the following tables.
 | Parameter name | Default value | Value Range | Description                                                                     |
 |      :---:     |     :---:     |    :---:    |    :---:                                                                        |
 | DATA_WIDTH     | 8             |≥ 1          | Size of the data                                                                |
-| ADDR_WIDTH     | 8             |> 1          | Size of the internal address. Determines the FIFO depth (2<sup>ADDR WIDTH</sup>)|
 
 | Port Name   | Direction   | Size       | Description                                                            |
 |    :---:    |    :---:    |   :---:    |   :---:                                                                |
