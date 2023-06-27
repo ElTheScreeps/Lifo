@@ -1,4 +1,4 @@
-LIFO (Last IN First OUT)
+#LIFO (Last IN First OUT)
 
 ![LIFO Diragram](https://github.com/ElTheScreeps/LIFO/assets/115155585/221e784b-7707-424b-b651-5144f3ed1dfe)
 
