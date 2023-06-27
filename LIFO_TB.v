@@ -24,7 +24,6 @@ repeat(1) @(posedge clk);
 rst_n = 0;
 repeat(1) @(posedge clk);
 rst_n = 1;
-$display("Start testing");
 write_en = 1; 
 data_in = 8'd35;
 repeat(1) @(posedge clk);
